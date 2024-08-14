@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Repository.Client": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
