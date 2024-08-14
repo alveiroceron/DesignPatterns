@@ -1,16 +1,16 @@
 # Design Patterns in C#
 
-Creational Patterns
-Singleton 
-Factory Method 
-Builder 
+## Creational Patterns:
+ - Singleton 
+ - Factory Method 
+ - Builder 
 
-Structural Patterns
-Adapter
-Decorator
-Repository
+## Structural Patterns:
+ - Adapter
+ - Decorator
+ - Repository
 
-Vehavioral Patterns
-Observer
-Strategy
-Mediator
+## Vehavioral Patterns:
+ - Observer
+ - Strategy
+ - Mediator
